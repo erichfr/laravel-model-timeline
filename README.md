@@ -115,10 +115,8 @@ foreach ($historico as $entry) {
 ## 🛠 Estrutura do Banco de Dados
 A tabela model_timelines possui a seguinte estrutura:
 
-```bash
-![alt text](image.png)
+<img width="536" height="336" alt="image" src="https://github.com/user-attachments/assets/3543e099-ea47-433c-a57a-f6a96209cc5f" />
 
-```
 ## 📄 Licença
 MIT License.
 

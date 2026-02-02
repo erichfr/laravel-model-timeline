@@ -121,3 +121,5 @@ A tabela model_timelines possui a seguinte estrutura:
 ## 📄 Licença
 MIT License.
 
+## Contato
+erichfr1@hotmail.com
